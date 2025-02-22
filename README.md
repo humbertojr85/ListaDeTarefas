@@ -20,7 +20,10 @@ O **Lista de Tarefas** é uma aplicação web que permite adicionar, remover e m
 
 ---
 
-## 📸 Demonstração  
+## 📸 Demonstração
+![image](https://github.com/user-attachments/assets/4adfefbe-f386-4bd1-9adf-a0cb65baa58a)
+
+
 💡 *Adicione aqui prints ou um GIF mostrando a interface e o funcionamento da aplicação.*  
 
 ---
