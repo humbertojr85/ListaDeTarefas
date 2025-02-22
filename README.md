@@ -1,23 +1,34 @@
-# 🚀 Lista de Tarefa ou atividades a serem feitas
+# ✅ Lista de Tarefas  
 
-📌 **Descrição curta do projeto**  
-O meu projeto feito para criar uma lista de tarefas ou deveres a serem feitos.
+📌 **Gerencie suas tarefas de forma simples e eficiente!**  
 
-## 📖 Sobre
-Descreva brevemente o projeto e sua motivação.
+![Badge](https://img.shields.io/badge/Status-Concluído-green)  
+![Badge](https://img.shields.io/github/languages/top/seu-usuario/lista-de-tarefas)  
+![Badge](https://img.shields.io/github/repo-size/seu-usuario/lista-de-tarefas)  
 
-## 🛠 Tecnologias Utilizadas
-- ✅ JavaScript
-- ✅ HTML 5
-- ✅ CSS 3
+---
 
-## 📸 Demonstração (se aplicável)
-Adicione imagens ou GIFs demonstrando o funcionamento.
+## 📖 Sobre o Projeto  
+O **Lista de Tarefas** é uma aplicação web que permite adicionar, remover e marcar tarefas como concluídas. Feita com **HTML, CSS e JavaScript puro**, sem necessidade de frameworks externos.  
 
-## 📦 Como Instalar
+---
+
+## 🛠 Tecnologias Utilizadas  
+🔹 **Linguagens:** JavaScript, HTML, CSS  
+🔹 **Estilização:** CSS puro  
+🔹 **Armazenamento:** LocalStorage  
+
+---
+
+## 📸 Demonstração  
+💡 *Adicione aqui prints ou um GIF mostrando a interface e o funcionamento da aplicação.*  
+
+---
+
+## 🚀 Como Usar  
+
+### 🔹 Clonando o Repositório  
 ```bash
-# Clone o repositório
+git clone https://github.com/seu-usuario/lista-de-tarefas.git
+cd lista-de-tarefas
 
-
-# Entre no diretório
-cd listaDeTarefas
